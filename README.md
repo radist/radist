@@ -1,4 +1,4 @@
-## Hi there 👋
+## hey, my name is Jurij Tatarkin
 
 <!--
 **radist/radist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Некоторые из моих инструментов и сервисов
+
+[![My Skills](https://skillicons.dev/icons?i=linux,md,bash,powershell,ansible,py,grafana,php,nodejs,docker,kubernetes,mongodb,redis,postgres,mysql,github,gitlab,grafana,prometheus,nginx,figma,html,css,laravel,vim,obsidian,terraform)](https://github.com/radist)
